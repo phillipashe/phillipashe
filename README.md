@@ -1,6 +1,6 @@
 Hi! I'm Phillip Ashe. I'm a software engineer residing in the Boston, MA area, with a B.S. in Computer Systems Engineering from the University of Massachusetts Amherst. I specialize in architecting and developing extraordinary web experiences.
 
-Currently, I work as a software engineer at Mandiant, a global leader in cyber security.
+Currently, I work as a software engineer at Google.
 
 In the past, I've worked as a Javascript developer and team lead of the US Dev team in JRNI, a full stack software engineer at Applause, and as a full stack Programmer at TTM Technologies.
 
